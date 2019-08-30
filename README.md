@@ -30,8 +30,8 @@ A set of tools are required to publish github sites which includes editor tools,
 
 I used the following resources to learn about github, web development and found them useful.
 
--[Github](https://github.com/topics/web-development)
--[w3schools](https://www.w3schools.com)
+- [Github](https://github.com/topics/web-development)
+- [w3schools](https://www.w3schools.com)
 
 
 ## Contributers
