@@ -14,17 +14,17 @@ This repo gives brief idea about github and tools used to develop web pages. Als
 A set of tools are required to publish github sites which includes editor tools, browsers. Github uses markdown which is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. For styling we can use CSS.
 
 1. Browsers
-- [Chrome](https://www.google.com/chrome/)
-- [Mozilla](https://www.mozilla.org/en-US/firefox/new/)
+ - [Chrome](https://www.google.com/chrome/)
+ - [Mozilla](https://www.mozilla.org/en-US/firefox/new/)
 
 2. Editors
-- [Eclipse](https://www.eclipse.org/downloads/)
-- [VisualCode](https://visualstudio.microsoft.com/downloads/)
-- [notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
+ - [Eclipse](https://www.eclipse.org/downloads/)
+ - [VisualCode](https://visualstudio.microsoft.com/downloads/)
+ - [notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 
-3.Other Tools
-- [TortoiseGit](https://tortoisegit.org/download/)
-- [Command Prompt](https://download.cnet.com/Command-Prompt-Portable/3000-2094_4-75449677.html)
+3. Other Tools
+ - [TortoiseGit](https://tortoisegit.org/download/)
+ - [Command Prompt](https://download.cnet.com/Command-Prompt-Portable/3000-2094_4-75449677.html)
 
 ## Recommended Resources
 
