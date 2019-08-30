@@ -34,7 +34,7 @@ I used the following resources to learn about github, web development and found 
 -[w3schools](https://www.w3schools.com)
 
 
- ## Contributers
+## Contributers
  
  My name is Venkat Prudhvi Dommaraju. I am a graduate student in Applied computer science at Northwest.Here is one of my favourite images.
  
