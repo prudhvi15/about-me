@@ -32,6 +32,7 @@ I used the following resources to learn about github, web development and found 
 
 - [Github](https://github.com/topics/web-development)
 - [w3schools](https://www.w3schools.com)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 
 ## Contributers
